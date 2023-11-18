@@ -5,20 +5,20 @@ Furthermore, the app offers the possibility of surfing the app in two ways: as a
 
 To ensure optimal performance and bug-free user experience, I have also developed an error and troubleshooting system that effectively observes issues or user input mistakes and addresses them (IMG_6).
 
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_1.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_1.png">
 <p align="center"><b>IMG_1: Editing and adding new contacts</b></p>
 <hr>
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_2.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_2.png">
 <p align="center"><b>IMG_2: Advertisements</b></p>
 <hr>
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_3.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_3.png">
 <p align="center"><b>IMG_3: Log-in window</b></p>
 <hr>
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_4.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_4.png">
 <p align="center"><b>IMG_4: Administrator mode</b></p>
 <hr>
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_5.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_5.png">
 <p align="center"><b>IMG_5: Splash screen</b></p>
 <hr>
-<img src="https://github.com/seburebu111/InfoAcademy_Final_Project/blob/main/resources/IMG_6.png">
+<img src="https://github.com/seburebu111/JavaApp-ContactBook/blob/main/resources/IMG_6.png">
 <p align="center"><b>IMG_6: Error pop-up</b></p>
